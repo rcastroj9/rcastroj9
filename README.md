@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+<!--
 > _`Arete` is a concept in ancient Greek thought that, in its most basic sense, refers to "excellence" of any kind._
 
 <p align="center">
@@ -17,7 +18,7 @@
 <p align="center">
   <img alt="github stats" src="https://github-readme-streak-stats.herokuapp.com/?user=aretecode&hide_border=true" />
 </p>
-
+-->
 
 <!--
 **rcastroj9/rcastroj9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
